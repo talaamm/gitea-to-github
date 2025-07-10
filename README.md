@@ -44,7 +44,7 @@ This repository contains a Bash script (`full_gitea_to_github_mirror.sh`) to aut
 5. Set an expiration if you want (e.g. 90 days).
 6. Click “Generate token”.
 7. Copy and save the generated token (you won't be able to see it again)
-![GitHub Token Example](assets/github%20keys.png)
+![GitHub Token Example](assets/github_keys.png)
 
 ### Gitea API Token
 
@@ -60,7 +60,7 @@ This repository contains a Bash script (`full_gitea_to_github_mirror.sh`) to aut
 6. Click "Generate Token"
 7. Copy and save the generated token - you will never see it again!
 
-![GitHub Token Example](assets/gitea%20keys.png)
+![GitHub Token Example](assets/gitea_keys.png)
 
 ## Notes
 
