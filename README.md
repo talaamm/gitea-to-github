@@ -26,6 +26,9 @@ This repository contains a Bash script (`full_gitea_to_github_mirror.sh`) to aut
    - `GITEA_TOKEN`: Your Gitea API token
 3. **Run the script:**
 
+### Set the same email on GitHub
+Make sure the email used in your Gitea commits is added to your GitHub account under Settings > Emails.
+
 ```bash
    chmod +x full_gitea_to_github_mirror.sh
    ./full_gitea_to_github_mirror.sh
