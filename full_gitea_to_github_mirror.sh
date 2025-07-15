@@ -3,7 +3,7 @@
 # === CONFIG ===
 GITEA_USER="username"
 GITEA_URL="https://DOMAIN/git" #example: https://adam-jerusalem.nd.edu/git
-GITEA_DOMAIN= "DOMAIN" # example: adam-jerusalem.nd.edu
+GITEA_DOMAIN="DOMAIN" # example: adam-jerusalem.nd.edu
 GITHUB_USER="username2"
 GITHUB_TOKEN="ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  # GitHub PAT
 GITEA_TOKEN="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
