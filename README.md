@@ -22,7 +22,7 @@ This repository contains a Bash script (`full_gitea_to_github_mirror.sh`) to aut
    - `GITEA_URL`: Base URL of your Gitea instance (e.g., `https://yourdomain.com/git`)
    - `GITEA_DOMAIN`: Domain of your Gitea instance (e.g., `yourdomain.com`)
    - `GITHUB_USER`: Your GitHub username
-   - `GITHUB_TOKEN`: Your GitHub Personal Access Token (PAT)
+   - `GITHUB_TOKEN`: Your GitHub Personal Access Token ( PAT )
    - `GITEA_TOKEN`: Your Gitea API token
 3. **Run the script:**
 
